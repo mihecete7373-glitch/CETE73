@@ -1,2 +1,5 @@
 # CETE73
 Cete dunyasi
+ #EXTM3U
+#EXTINF:-1,Trspor
+https://corestream.ronaldovurdu.help/hls/bein-sports-1.m3u8
